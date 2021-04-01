@@ -3,6 +3,11 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
+function dontKnow() {
+  fetch(mimicServerCall)
+  .then(res => res.json())
+  .then()
+}
 
 
 
